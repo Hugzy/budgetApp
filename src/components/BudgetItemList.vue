@@ -1,6 +1,7 @@
 <template>
   <div>
       testing testin
+      testing2 testing2
   </div>
 </template>
 
